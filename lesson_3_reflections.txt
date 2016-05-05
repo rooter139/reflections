@@ -1,1 +1,4 @@
 New reflections about GitHub
+
+When would you want to use a remote repository rather than keeping all your work local?
+I believe that it is useful when I work in a team, so in that case everyone can work remotely
