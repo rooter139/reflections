@@ -25,3 +25,6 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 I will work only with small features and within a specific time. The hard part would be the comunication to check if the resources are available.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I added a feature that needs to be approved or requires to be checked before commit it to master.
