@@ -20,3 +20,8 @@ Branch is a part of a repository that is used to work on features without affect
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It is used to have the repository up-to-date, because the code can have many changes if we wait alog period of time to update.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I will work only with small features and within a specific time. The hard part would be the comunication to check if the resources are available.
+
