@@ -18,3 +18,5 @@ Clone is a command that let you get a copy of a repository.
 
 Branch is a part of a repository that is used to work on features without affect the main branch.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It is used to have the repository up-to-date, because the code can have many changes if we wait alog period of time to update.
